@@ -1,0 +1,15 @@
+(with reset)
+�� sr serialEx.ForSerialize��SÄ�N L at Ljava/lang/String;L bq ~ xpt ONEt helloysr
+          serialEx.ForSerialize��SÄ�N L at Ljava/lang/String;L bq ~ xpt TWOt helloysr
+          serialEx.ForSerialize��SÄ�N L at Ljava/lang/String;L bq ~ xpt THREEt helloy
+    (---)
+�� sr serialEx.ForSerialize��SÄ�N L at Ljava/lang/String;L bq ~ xpt ONEt hellosq ~
+                                                                                               t TWOq ~ sq ~
+                                                                                               t THREEq ~ 
+   (---)
+�� sr serialEx.ForSerialize��SÄ�N L at Ljava/lang/String;L bq ~ xpt ONEt helloq ~ q ~ 
+
+(with reset)
+�� sr serialEx.ForSerialize��SÄ�N L at Ljava/lang/String;L bq ~ xpt ONEt helloysr
+          serialEx.ForSerialize��SÄ�N L at Ljava/lang/String;L bq ~ xpt ONEt helloysr
+          serialEx.ForSerialize��SÄ�N L at Ljava/lang/String;L bq ~ xpt ONEt helloy
